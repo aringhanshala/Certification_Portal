@@ -1,7 +1,6 @@
 # Certification Portal
 
-## Developed by:
-Ajay Bhatt, Arin Ghanshala, Ashmin Kharola and Yuvraj Kabadwal.
+**Developed By:** Ajay Bhatt, Arin Ghanshala, Ashmin Kharola and Yuvraj Kabadwal.
 
 **Developed on:** 19th February, 2025  
 
