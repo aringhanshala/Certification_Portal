@@ -44,6 +44,6 @@ The **Certification Portal** will bridge the gap between students and certificat
 
 ## Live Demo:
 
-Check out the live demo of the website: 
+Check out the live demo of the website: https://aringhanshala.github.io/Certification_Portal/
 
 Feel free to explore the code and provide any feedback or suggestions!
